@@ -1,0 +1,1 @@
+export const HOST_AVA = "http://localhost:8080"
